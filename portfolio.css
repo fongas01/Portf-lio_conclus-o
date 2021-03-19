@@ -234,6 +234,16 @@
         margin-bottom: 8px;
     }
     
+    label {
+        display: table;
+        padding: 10px;
+    }
+    
+    .formulario #mensagem {
+        display: table;
+        width: 19px;
+    }
+    
     .formulario input {
         padding: 5px;
         margin-bottom: 8px;
@@ -244,11 +254,6 @@
         max-width: 300px;
         width: 100%;
     }
-    /* .mensagem {
-        width: 80%;
-        height: 80%;
-    }
-    */
     
     .redeSociais p {
         font: normal 15px Segoe UI;
