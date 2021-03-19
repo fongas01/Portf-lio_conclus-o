@@ -244,22 +244,23 @@
         max-width: 300px;
         width: 100%;
     }
-    
-    .formulario label {
-        margin-bottom: 33px;
-        width: 700px;
+    /* .mensagem {
+        width: 80%;
+        height: 80%;
     }
+    */
     
     .redeSociais p {
         font: normal 15px Segoe UI;
         margin-bottom: 8px;
     }
     
-    .formulario button {}
-    
-    input[type="text"] {
-        max-width: 300px;
-        width: 100%;
+    .formulario button {
+        text-align: center;
+        padding: 6px;
+        margin-top: 8px;
+        margin-bottom: 15px;
+        width: 100px;
     }
     
     .redeSociais img {
